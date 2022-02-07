@@ -1,0 +1,8 @@
+tag,uhrzeit,fach,prof,zimmer
+Mo,07:30,Mathe,Prof. Müller,Z113
+Mo,09:00,Python,Prof. Ringel,S120
+Di,11:00,Computergrafik,Prof. Müller,S328
+Mi,12:30,Gestaltung,Prof. Meier,S329
+Do,07:30,IT-Recht,Prof. Westfeld,online
+Do,09:00,Programmierung,Prof. Bruns,S130
+Fr,13:20,Medienpsychologie,Prof. Merino,online

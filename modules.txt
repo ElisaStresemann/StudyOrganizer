@@ -1,0 +1,5 @@
+modul,link,beschreibung
+Python,https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/31980552195/CourseNode/1631154541971400008?5, OPAL
+Python,https://miro.com/app/board/uXjVObelQNc=/, Miroboard
+DCMP,https://ibbb.informatik.htw-dresden.de/b/mar-n5m-pa1-kxa, BBB
+Medienpsychologie,https://ibbb.informatik.htw-dresden.de/b/ter-n8o-801-3qj, BBB

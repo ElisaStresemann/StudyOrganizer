@@ -1,0 +1,5 @@
+tag,uhrzeit,beschreibung
+2022-03-02,09:30,Treffen mit Alina
+2022-02-22,08:00,Geburtstag Helmut
+2022-02-12,13:00,Zahnarzt
+2022-02-05,23:59,Abgabe Python
